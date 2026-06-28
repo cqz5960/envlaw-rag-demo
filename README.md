@@ -192,10 +192,11 @@ envlaw-rag-demo/
 
 ## 👤 开发者
 
-**蔡其正（Hison）**  
+**Hison Cai**  
 - 中国地质大学（CUG）环境科学与工程博士  
 - 研究方向：电化学修复技术、环境AI应用  
-- 联系方式：cqz5960@163.com  
+- 联系方式：cqz5960@163.com
+- 个人博客：www.hison.blog
 
 ---
 
