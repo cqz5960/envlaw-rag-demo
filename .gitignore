@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+envlaw-rag-env/    # ← 你的虚拟环境文件夹名
+
+# Streamlit
+.streamlit/
+
+# 大模型 API Key（重要！）
+.env
+*.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 操作系统
+.DS_Store
+Thumbs.db
